@@ -19,7 +19,7 @@ This project is dedicated to developing an AI agent that learns to play Tetris, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/TetrisAI.git
+git clone https://github.com/Indrr27/TetrisAI.git
 cd TetrisAI
 ```
 
