@@ -1,0 +1,4 @@
+torch==1.8.1
+stable-baselines3[extra]==1.1.0
+gym-tetris==0.2.6
+nes-py
